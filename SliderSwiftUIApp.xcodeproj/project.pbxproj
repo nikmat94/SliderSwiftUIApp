@@ -11,7 +11,6 @@
 		5E1A9C82266A5BB400B9E583 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A9C81266A5BB400B9E583 /* ContentView.swift */; };
 		5E1A9C84266A5BB600B9E583 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E1A9C83266A5BB600B9E583 /* Assets.xcassets */; };
 		5E1A9C87266A5BB600B9E583 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E1A9C86266A5BB600B9E583 /* Preview Assets.xcassets */; };
-		5E1A9C89266A5BB600B9E583 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A9C88266A5BB600B9E583 /* Persistence.swift */; };
 		5E1A9C8C266A5BB600B9E583 /* SliderSwiftUIApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A9C8A266A5BB600B9E583 /* SliderSwiftUIApp.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +20,6 @@
 		5E1A9C81266A5BB400B9E583 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5E1A9C83266A5BB600B9E583 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E1A9C86266A5BB600B9E583 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5E1A9C88266A5BB600B9E583 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		5E1A9C8B266A5BB600B9E583 /* SliderSwiftUIApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SliderSwiftUIApp.xcdatamodel; sourceTree = "<group>"; };
 		5E1A9C8D266A5BB600B9E583 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,7 +57,6 @@
 				5E1A9C7F266A5BB400B9E583 /* SliderSwiftUIAppApp.swift */,
 				5E1A9C81266A5BB400B9E583 /* ContentView.swift */,
 				5E1A9C83266A5BB600B9E583 /* Assets.xcassets */,
-				5E1A9C88266A5BB600B9E583 /* Persistence.swift */,
 				5E1A9C8D266A5BB600B9E583 /* Info.plist */,
 				5E1A9C8A266A5BB600B9E583 /* SliderSwiftUIApp.xcdatamodeld */,
 				5E1A9C85266A5BB600B9E583 /* Preview Content */,
@@ -145,7 +142,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E1A9C8C266A5BB600B9E583 /* SliderSwiftUIApp.xcdatamodeld in Sources */,
-				5E1A9C89266A5BB600B9E583 /* Persistence.swift in Sources */,
 				5E1A9C82266A5BB400B9E583 /* ContentView.swift in Sources */,
 				5E1A9C80266A5BB400B9E583 /* SliderSwiftUIAppApp.swift in Sources */,
 			);
